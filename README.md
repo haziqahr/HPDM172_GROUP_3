@@ -176,7 +176,7 @@ The generated data was imported into MySQL using SQL scripts.
 ```text
 Hospital-Database/
 │
-├── hospitals.py
+├── hospitals
 ├── doctors.py
 ├── patients.py
 ├── medications.py
