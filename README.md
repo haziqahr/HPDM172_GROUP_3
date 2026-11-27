@@ -219,7 +219,7 @@ This project demonstrates:
 
 ## Authors
 - Abraham Nkrumah
-- Ferrao, Sarah Rosario
-- Hj Abdul Razak, Haziqah
-- Onyemachi, Favour Chioma
-- Kunnumpurath Gireesh, Abhirami
+- Ferrao Sarah Rosario
+- Hj Abdul Razak Haziqah
+- Onyemachi Favour Chioma
+- Kunnumpurath Gireesh Abhirami
